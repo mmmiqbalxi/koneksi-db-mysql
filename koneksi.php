@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "namadb"; // ubah nama db
+$dbname = "iqbal_xirpl1";
 
 $conn = new mysqli("$servername", "$username", "$password", "$dbname");
 
